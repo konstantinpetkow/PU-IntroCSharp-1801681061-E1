@@ -9,3 +9,14 @@ C:\Users\user\Desktop\ExamOne1801681061\ExamOne1801681061\RectangleArea\obj\Debu
 C:\Users\user\Desktop\ExamOne1801681061\ExamOne1801681061\RectangleArea\obj\Debug\netcoreapp2.1\RectangleArea.AssemblyInfo.cs
 C:\Users\user\Desktop\ExamOne1801681061\ExamOne1801681061\RectangleArea\obj\Debug\netcoreapp2.1\RectangleArea.dll
 C:\Users\user\Desktop\ExamOne1801681061\ExamOne1801681061\RectangleArea\obj\Debug\netcoreapp2.1\RectangleArea.pdb
+C:\Users\user\Desktop\ExamOne1801681061\PU-IntroCSharp-1801681061-E1\ExamOne1801681061\RectangleArea\bin\Debug\netcoreapp2.1\RectangleArea.deps.json
+C:\Users\user\Desktop\ExamOne1801681061\PU-IntroCSharp-1801681061-E1\ExamOne1801681061\RectangleArea\bin\Debug\netcoreapp2.1\RectangleArea.runtimeconfig.json
+C:\Users\user\Desktop\ExamOne1801681061\PU-IntroCSharp-1801681061-E1\ExamOne1801681061\RectangleArea\bin\Debug\netcoreapp2.1\RectangleArea.runtimeconfig.dev.json
+C:\Users\user\Desktop\ExamOne1801681061\PU-IntroCSharp-1801681061-E1\ExamOne1801681061\RectangleArea\bin\Debug\netcoreapp2.1\RectangleArea.dll
+C:\Users\user\Desktop\ExamOne1801681061\PU-IntroCSharp-1801681061-E1\ExamOne1801681061\RectangleArea\bin\Debug\netcoreapp2.1\RectangleArea.pdb
+C:\Users\user\Desktop\ExamOne1801681061\PU-IntroCSharp-1801681061-E1\ExamOne1801681061\RectangleArea\obj\Debug\netcoreapp2.1\RectangleArea.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ExamOne1801681061\PU-IntroCSharp-1801681061-E1\ExamOne1801681061\RectangleArea\obj\Debug\netcoreapp2.1\RectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ExamOne1801681061\PU-IntroCSharp-1801681061-E1\ExamOne1801681061\RectangleArea\obj\Debug\netcoreapp2.1\RectangleArea.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ExamOne1801681061\PU-IntroCSharp-1801681061-E1\ExamOne1801681061\RectangleArea\obj\Debug\netcoreapp2.1\RectangleArea.AssemblyInfo.cs
+C:\Users\user\Desktop\ExamOne1801681061\PU-IntroCSharp-1801681061-E1\ExamOne1801681061\RectangleArea\obj\Debug\netcoreapp2.1\RectangleArea.dll
+C:\Users\user\Desktop\ExamOne1801681061\PU-IntroCSharp-1801681061-E1\ExamOne1801681061\RectangleArea\obj\Debug\netcoreapp2.1\RectangleArea.pdb

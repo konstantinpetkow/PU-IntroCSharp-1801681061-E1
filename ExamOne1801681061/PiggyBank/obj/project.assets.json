@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\ExamOne1801681061\\PU-IntroCSharp-1801681061-E1\\ExamOne1801681061\\RectangleArea\\RectangleArea.csproj",
-      "projectName": "RectangleArea",
-      "projectPath": "C:\\Users\\user\\Desktop\\ExamOne1801681061\\PU-IntroCSharp-1801681061-E1\\ExamOne1801681061\\RectangleArea\\RectangleArea.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\ExamOne1801681061\\PU-IntroCSharp-1801681061-E1\\ExamOne1801681061\\PiggyBank\\PiggyBank.csproj",
+      "projectName": "PiggyBank",
+      "projectPath": "C:\\Users\\user\\Desktop\\ExamOne1801681061\\PU-IntroCSharp-1801681061-E1\\ExamOne1801681061\\PiggyBank\\PiggyBank.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\ExamOne1801681061\\PU-IntroCSharp-1801681061-E1\\ExamOne1801681061\\RectangleArea\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\ExamOne1801681061\\PU-IntroCSharp-1801681061-E1\\ExamOne1801681061\\PiggyBank\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
