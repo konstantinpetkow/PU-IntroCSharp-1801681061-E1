@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\ExamOne1801681061\PU-IntroCSharp-1801681061-E1\ExamOne1801681061\Calculator\bin\Debug\netcoreapp2.1\Calculator.deps.json
+C:\Users\user\Desktop\ExamOne1801681061\PU-IntroCSharp-1801681061-E1\ExamOne1801681061\Calculator\bin\Debug\netcoreapp2.1\Calculator.runtimeconfig.json
+C:\Users\user\Desktop\ExamOne1801681061\PU-IntroCSharp-1801681061-E1\ExamOne1801681061\Calculator\bin\Debug\netcoreapp2.1\Calculator.runtimeconfig.dev.json
+C:\Users\user\Desktop\ExamOne1801681061\PU-IntroCSharp-1801681061-E1\ExamOne1801681061\Calculator\bin\Debug\netcoreapp2.1\Calculator.dll
+C:\Users\user\Desktop\ExamOne1801681061\PU-IntroCSharp-1801681061-E1\ExamOne1801681061\Calculator\bin\Debug\netcoreapp2.1\Calculator.pdb
+C:\Users\user\Desktop\ExamOne1801681061\PU-IntroCSharp-1801681061-E1\ExamOne1801681061\Calculator\obj\Debug\netcoreapp2.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ExamOne1801681061\PU-IntroCSharp-1801681061-E1\ExamOne1801681061\Calculator\obj\Debug\netcoreapp2.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ExamOne1801681061\PU-IntroCSharp-1801681061-E1\ExamOne1801681061\Calculator\obj\Debug\netcoreapp2.1\Calculator.AssemblyInfo.cs
+C:\Users\user\Desktop\ExamOne1801681061\PU-IntroCSharp-1801681061-E1\ExamOne1801681061\Calculator\obj\Debug\netcoreapp2.1\Calculator.dll
+C:\Users\user\Desktop\ExamOne1801681061\PU-IntroCSharp-1801681061-E1\ExamOne1801681061\Calculator\obj\Debug\netcoreapp2.1\Calculator.pdb
